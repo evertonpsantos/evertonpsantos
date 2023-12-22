@@ -7,6 +7,9 @@
   <img align="center" height=300 width=550 src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonpsantos&layout=compact&theme=vision-friendly-dark" />
 </div>
 
+<br>
+<br>
+
 <div>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,5 +32,4 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
-
 </div>
